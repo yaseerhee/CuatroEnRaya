@@ -8,4 +8,4 @@ Se trata de un juego de tablero donde compiten dos jugadores *(Azul y Rojo)*. La
 - Los estilos han sido creado es **CSS3** .
 
 
-
+### Nivel: básico/medio :green_book:
